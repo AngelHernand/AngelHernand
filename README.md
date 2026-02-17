@@ -3,40 +3,41 @@
 <div align="center">
   <img src="pixel-art-town.gif" width="500" alt="Pixel Art City"/>
 </div>
-## Sobre mí
 
-Estudiante de Ingeniería en Sistemas Computacionales en ESCOM - IPN con una fuerte pasión por el desarrollo de software, la automatización y la construcción de sistemas reales con enfoque profesional.
+## About me
 
-Me gusta trabajar en proyectos que mezclen backend, seguridad, infraestructura, criptografía, y cosas experimentales como visión por computadora, modelos ONNX, o incluso programación gráfica con Vulkan.
+Computer Systems Engineering student at ESCOM - IPN with a strong passion for software development, automation, and building real systems with a professional approach.
 
-También soy líder scout, lo que me ha ayudado a desarrollar habilidades de liderazgo, comunicación y enseñanza técnica.
+I enjoy working on projects that mix backend, security, infrastructure, cryptography, and experimental things like computer vision, ONNX models, or even graphics programming with Vulkan.
 
-## Actualmente trabajando en
+I'm also a scout leader, which has helped me develop leadership, communication, and technical teaching skills.
 
-**Proyectos principales**
+## Currently working on
 
-- Aplicación móvil en .NET MAUI para cifrado/descifrado de claves scout, con OCR y visión por computadora (tipo Google Translate pero para símbolos)
-- Implementación de criptografía aplicada: RSA, AES-GCM, HMAC/SHA-256, Diffie-Hellman, campos finitos y seguridad real en software
-- Desarrollo backend con ASP.NET Core, autenticación JWT, roles, permisos dinámicos y arquitectura escalable
-- Automatización en Linux, redes, túneles SSH, servidores, scripts y entornos virtualizados (WSL2/KVM/VMs)
+**Main projects**
+
+- Mobile app in .NET MAUI for scout code encryption/decryption, with OCR and computer vision (like Google Translate but for symbols)
+- Applied cryptography implementation: RSA, AES-GCM, HMAC/SHA-256, Diffie-Hellman, finite fields, and real security in software
+- Backend development with ASP.NET Core, JWT authentication, roles, dynamic permissions, and scalable architecture
+- Automation in Linux, networks, SSH tunnels, servers, scripts, and virtualized environments (WSL2/KVM/VMs)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=.Net Developerr" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=.Net+Developer" alt="Typing SVG" />
 </div>
 
-## Áreas de interés
+## Areas of interest
 
-- DevOps y automatización CI/CD
-- Inteligencia Artificial (ML/DL, ONNX, Computer Vision)
-- Criptografía aplicada y ciberseguridad
-- Arquitectura de software y microservicios
-- Graphics Programming y motores de juegos (Vulkan, game engines)
-- Optimización, investigación de operaciones y programación lineal
-- Linux, virtualización, redes, administración de servidores
+- DevOps and CI/CD automation
+- Artificial Intelligence (ML/DL, ONNX, Computer Vision)
+- Applied cryptography and cybersecurity
+- Software architecture and microservices
+- Graphics Programming and game engines (Vulkan, game engines)
+- Optimization, operations research, and linear programming
+- Linux, virtualization, networks, server administration
 
-## Stack Tecnológico
+## Tech Stack
 
-### Lenguajes
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -45,7 +46,7 @@ También soy líder scout, lo que me ha ayudado a desarrollar habilidades de lid
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### Frameworks y Tecnologías
+### Frameworks and Technologies
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NET MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -54,43 +55,40 @@ También soy líder scout, lo que me ha ayudado a desarrollar habilidades de lid
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
-### DevOps / Infraestructura
+### DevOps / Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=for-the-badge&logo=openssh&logoColor=white)
 
-### Seguridad
+### Security
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
 
-## Proyectos Destacados
+## Featured Projects
 
-**Seguridad y Criptografía**
-- Implementación de AES-GCM + RSA para cifrado seguro de datos
-- Prácticas de criptografía con campos finitos GF(2^n), RSA, Diffie-Hellman y algoritmos clásicos
-- Sistema con autenticación JWT, roles, permisos y control de acceso
+**Security and Cryptography**
+- Implementation of AES-GCM + RSA for secure data encryption
+- Cryptography practices with finite fields GF(2^n), RSA, Diffie-Hellman, and classical algorithms
+- System with JWT authentication, roles, permissions, and access control
 
-**Aplicaciones y Backend**
-- CRUD completo en ASP.NET Core + EF Core
-- Arquitectura por capas, APIs REST y autenticación moderna
-- App móvil en .NET MAUI con enfoque educativo y criptográfico
+**Applications and Backend**
+- Complete CRUD in ASP.NET Core + EF Core
+- Layered architecture, REST APIs, and modern authentication
+- Mobile app in .NET MAUI with educational and cryptographic focus
 
-**IA y Computer Vision**
-- Reconocimiento de símbolos y texto mediante OCR
-- Exploración de modelos con ONNX / pipelines de visión artificial
-- Proyecto tipo traductor visual para claves scout
+**AI and Computer Vision**
+- Symbol and text recognition using OCR
+- Exploration of models with ONNX / computer vision pipelines
+- Visual translator-type project for scout codes
 
 **Graphics Programming**
-- Exploración técnica de Vulkan API
-- Arquitectura de motores gráficos y game engines
-- Experimentos de optimización y rendering
+- Technical exploration of Vulkan API
+- Graphics engine and game engine architecture
+- Optimization and rendering experiments
 
-
- Optimización matemática y algoritmos
-
-## Estadísticas de GitHub
+## GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelHernand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -101,13 +99,13 @@ También soy líder scout, lo que me ha ayudado a desarrollar habilidades de lid
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelHernand&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
-## Gráfica de Actividad
+## Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelHernand&theme=tokyo-night" />
 </div>
 
-## Contribuciones
+## Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/AngelHernand/AngelHernand/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -116,21 +114,21 @@ También soy líder scout, lo que me ha ayudado a desarrollar habilidades de lid
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AngelHernand&color=6366f1&style=flat-square&label=Visitas+al+perfil" />
+  <img src="https://komarev.com/ghpvc/?username=AngelHernand&color=6366f1&style=flat-square&label=Profile+views" />
 </div>
 
 <div align="center">
 
-**Quote personal**
+**Personal quote**
 
-"Buscar la perfección sabiendo que nunca será suficiente... y aun así insistir."
+"Seeking perfection knowing it will never be enough... and still insisting."
 
 </div>
 
-## Contacto
+## Contact
 
-**Ubicación:** México  
-**Enfoque:** Backend / DevOps / Security / AI  
+**Location:** Mexico  
+**Focus:** Backend / DevOps / Security / AI  
 **Email:** hernandezdiazrobertoangel@gmail.com  
 
 <div align="center">
