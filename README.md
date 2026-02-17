@@ -20,6 +20,9 @@ También soy líder scout, lo que me ha ayudado a desarrollar habilidades de lid
 - Desarrollo backend con ASP.NET Core, autenticación JWT, roles, permisos dinámicos y arquitectura escalable
 - Automatización en Linux, redes, túneles SSH, servidores, scripts y entornos virtualizados (WSL2/KVM/VMs)
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=.Net Developerr" alt="Typing SVG" />
+</div>
 
 ## Áreas de interés
 
@@ -90,30 +93,30 @@ También soy líder scout, lo que me ha ayudado a desarrollar habilidades de lid
 ## Estadísticas de GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelHernand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelHernand&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelHernand&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ## Gráfica de Actividad
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelHernand&theme=tokyo-night" />
 </div>
 
 ## Contribuciones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AngelHernand/AngelHernand/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=6366f1&style=flat-square&label=Visitas+al+perfil" />
+  <img src="https://komarev.com/ghpvc/?username=AngelHernand&color=6366f1&style=flat-square&label=Visitas+al+perfil" />
 </div>
 
 <div align="center">
