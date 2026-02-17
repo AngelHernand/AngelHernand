@@ -1,7 +1,7 @@
 # Angel Hernandez
 
 <div align="center">
-  <img src="https://media.tenor.com/mejwhE-ed-QAAAAC/pixel-art-town.gif" width="500" alt="Pixel Art City"/>
+  <img src="https://media1.tenor.com/m/mejwhE-ed-QAAAAC/pixel-art-town.gif" width="500" alt="Pixel Art City"/>
 </div>
 
 ## Sobre mí
