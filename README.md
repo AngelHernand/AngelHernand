@@ -88,23 +88,6 @@ I'm also a scout leader, which has helped me develop leadership, communication, 
 - Graphics engine and game engine architecture
 - Optimization and rendering experiments
 
-## GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelHernand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelHernand&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelHernand&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-## Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelHernand&theme=tokyo-night" />
-</div>
-
 ## Contributions
 
 <div align="center">
