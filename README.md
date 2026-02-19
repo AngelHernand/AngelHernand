@@ -101,12 +101,6 @@ I'm also a scout, which has helped me develop leadership, communication, and tec
 - Graphics engine and game engine architecture
 - Optimization and rendering experiments
 
-## Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AngelHernand/AngelHernand/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
 ---
 
 <div align="center">
